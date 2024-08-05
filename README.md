@@ -1,4 +1,4 @@
-# Netflix_IMDB_Power_Bi
+# Netflix_IMDB_Power_BI
 Учебный проект https://stepik.org/course/101689/syllabus  
 Данные стриминговой платформы Netflix и данные сайта IMDB, на котором пользователи могут комментировать и выставлять оценки контенту.
 Данные Netflix: 
